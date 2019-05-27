@@ -1,0 +1,26 @@
+{
+  "name": "avg",
+  "version": "1.0.0",
+  "description": "Archer du Vert Galant Website from Nextjs, nodejs and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregory14/avg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregory14/avg/issues"
+  },
+  "homepage": "https://github.com/Gregory14/avg#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
